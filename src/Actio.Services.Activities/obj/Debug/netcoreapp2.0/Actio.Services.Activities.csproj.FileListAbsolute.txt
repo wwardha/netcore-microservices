@@ -1,0 +1,12 @@
+/Users/wwardha/Projects/NETCore/NETCoreMicroservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.deps.json
+/Users/wwardha/Projects/NETCore/NETCoreMicroservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.runtimeconfig.json
+/Users/wwardha/Projects/NETCore/NETCoreMicroservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.runtimeconfig.dev.json
+/Users/wwardha/Projects/NETCore/NETCoreMicroservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.dll
+/Users/wwardha/Projects/NETCore/NETCoreMicroservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Services.Activities.pdb
+/Users/wwardha/Projects/NETCore/NETCoreMicroservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Common.dll
+/Users/wwardha/Projects/NETCore/NETCoreMicroservices/Actio/src/Actio.Services.Activities/bin/Debug/netcoreapp2.0/Actio.Common.pdb
+/Users/wwardha/Projects/NETCore/NETCoreMicroservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.csproj.CoreCompileInputs.cache
+/Users/wwardha/Projects/NETCore/NETCoreMicroservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.AssemblyInfoInputs.cache
+/Users/wwardha/Projects/NETCore/NETCoreMicroservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.AssemblyInfo.cs
+/Users/wwardha/Projects/NETCore/NETCoreMicroservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.dll
+/Users/wwardha/Projects/NETCore/NETCoreMicroservices/Actio/src/Actio.Services.Activities/obj/Debug/netcoreapp2.0/Actio.Services.Activities.pdb
